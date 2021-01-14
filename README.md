@@ -1,6 +1,6 @@
 # Exercises
 
-##Division With Exceptions
+## Division With Exceptions
 
 1. Create a program that can take two ints as input from the user and can produce the division of these numbers.
 You can use the Maths project created earlier.
